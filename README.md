@@ -11,6 +11,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | [Frontier Toki Pona (ᴛᴇᴘᴀɴ)](tepan.md) |
 | [Traditional Toki Pona (ᴘɪᴊᴇ)](pije.md) |
 | [Dialectal Toki Pona (ᴋɪᴘᴏ)](kipo.md) |
+| [Not Very Good Toki Pona (ᴡᴇᴋᴏ)](weko.md) |
 
 ![o pilin pona o pu](sitelen/kulupu/jan-pu/o-pilin-pona-o-pu.jpg)
 
