@@ -12,23 +12,29 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 ## Terminology
 
-ɴᴏᴜɴ ᴘʜʀᴀꜱᴇs are sometimes called ɴᴏᴜɴ ɢʀᴏᴜᴘs. ᴀᴜxɪʟɪᴀʀʏ ᴠᴇʀʙs are called ᴘʀᴇ-ᴠᴇʀʙs.
+ɴᴏᴜɴ ᴘʜʀᴀꜱᴇs are sometimes called ɴᴏᴜɴ ɢʀᴏᴜᴘs.
 
 | | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
 | [**mije**](#lesson-11) | ɴᴏᴜɴ ɢʀᴏᴜᴘ | ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ |
 
+ᴀᴜxɪʟɪᴀʀʏ ᴠᴇʀʙs are called ᴘʀᴇ-ᴠᴇʀʙs.
+
+| | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
+|:-|:-|:-|
+| [**kama**](#lesson-13) | ᴘʀᴇ-ᴠᴇʀʙ | ᴀᴜxɪʟɪᴀʀʏ ᴠᴇʀʙ |
+
 Since ɴᴏᴜɴs and ᴘʀᴏɴᴏᴜɴs are indistinguishable in Toki Pona, they are both called ɴᴏᴜɴs.
 
 | | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
-| [**mi**](#lesson-4) | ɴᴏᴜɴ | ᴘʀᴏɴᴏᴜɴ |
+| [**mi**](#lesson-4) | ɴᴏᴜɴ | ɴᴏᴜɴ: ᴘʀᴏɴᴏᴜɴ |
 
 Since ᴀᴅᴊᴇᴄᴛɪᴠᴇs and ɪɴᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙs are indistinguishable in Toki Pona, they are both called ᴀᴅᴊᴇᴄᴛɪᴠᴇs.
 
 | | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
-| [**awen**](#lesson-11) | ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ɪɴᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙ → ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
+| [**awen**](#lesson-11) | ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ɪɴᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙ |
 
 Since ᴀᴅᴊᴇᴄᴛɪᴠᴇs and ᴀᴅᴠᴇʀʙs are indistinguishable in Toki Pona, they are both called ᴀᴅᴊᴇᴄᴛɪᴠᴇs.
 
@@ -36,28 +42,28 @@ Since ᴀᴅᴊᴇᴄᴛɪᴠᴇs and ᴀᴅᴠᴇʀʙs are indistinguishable in
 |:-|:-|:-|
 | [**mute**](#lesson-6) | ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ᴍᴏᴅɪꜰɪᴇʀ: ᴀᴅᴊᴇᴄᴛɪᴠᴇ, ᴀᴅᴠᴇʀʙ |
 
-Therefore, ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙs can be simply called ᴠᴇʀʙs. On other occasions, though, "ᴠᴇʀʙ" also means either ᴍᴀɪɴ ᴠᴇʀʙ or ᴘʀᴇᴅɪᴄᴀᴛᴇ.
+Therefore, ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙs can be simply called ᴠᴇʀʙs. In the context of sᴇɴᴛᴇɴᴄᴇs though, "ᴠᴇʀʙ" also means either ᴍᴀɪɴ ᴠᴇʀʙ or ᴘʀᴇᴅɪᴄᴀᴛᴇ.
 
 | | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
-| [**pali**](#lesson-5) | ᴠᴇʀʙ | ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙ → ᴠᴇʀʙ |
+| [**pali**](#lesson-5) | ᴠᴇʀʙ | ᴠᴇʀʙ: ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙ |
 | | | |
-| [**…**](#what-is-toki-pona) | ᴠᴇʀʙ | ᴘʀᴇᴅɪᴄᴀᴛᴇ |
-| [**mama**](#lesson-7) | ᴠᴇʀʙ | ᴍᴀɪɴ ᴠᴇʀʙ |
+| [**…**](#what-is-toki-pona) | ᴠᴇʀʙ | sᴇɴᴛᴇɴᴄᴇ's ᴘʀᴇᴅɪᴄᴀᴛᴇ |
+| [**mama**](#lesson-7) | ᴠᴇʀʙ | sᴇɴᴛᴇɴᴄᴇ's ᴍᴀɪɴ ᴠᴇʀʙ |
 
 ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs and ɴᴀᴍᴇs are called ᴘᴀʀᴛɪᴄʟᴇs.
 
 | | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
-| [**mu!**](#lesson-10) | ᴘᴀʀᴛɪᴄʟᴇ | ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ → ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ |
-| [**nanpa (wan)**](#lesson-12) | ᴘᴀʀᴛɪᴄʟᴇ | ɴᴀᴍᴇ → ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ |
+| [**mu!**](#lesson-10) | ᴘᴀʀᴛɪᴄʟᴇ | ᴘᴀʀᴛɪᴄʟᴇ: ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ: ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ |
+| [**nanpa (wan)**](#lesson-12) | ᴘᴀʀᴛɪᴄʟᴇ | ᴘᴀʀᴛɪᴄʟᴇ: ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ: ɴᴀᴍᴇ |
 
 As long as ɴᴀᴍᴇs are single words only (like [place names](#place-names)), they behave as ᴀᴅᴊᴇᴄᴛɪᴠᴇs. Therefore, ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀs are called ᴀᴅᴊᴇᴄᴛɪᴠᴇs. But when ɴᴀᴍᴇs are come as multiple words (like [proper names](#lesson-9)) they are used without **pi** (like the ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ **nanpa**).
 
 | | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
-| [**Papuwanijukini**](#place-names) | ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ɴᴀᴍᴇ → ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ |
-| [**Epawan Linkan**](#lesson-9) | ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ɴᴀᴍᴇ → ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ |
+| [**Papuwanijukini**](#place-names) | ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ᴘᴀʀᴛɪᴄʟᴇ: ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ: ɴᴀᴍᴇ |
+| [**Epawan Linkan**](#lesson-9) | ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ᴘᴀʀᴛɪᴄʟᴇ: ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ: ɴᴀᴍᴇ |
 
 ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇs are introduced as ɴᴏᴜɴs/ᴀᴅᴊᴇᴄᴛɪᴠᴇs. **seme** is introduced as a ᴘᴀʀᴛɪᴄʟᴇ.
 
@@ -71,7 +77,7 @@ As long as ɴᴀᴍᴇs are single words only (like [place names](#place-names))
 
 | | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
-| [**pi**](#lesson-11) | ᴘᴀʀᴛɪᴄʟᴇ | ᴍᴀʀᴋᴇʀ |
+| [**pi**](#lesson-11) | ᴘᴀʀᴛɪᴄʟᴇ | ᴘᴀʀᴛɪᴄʟᴇ: ᴍᴀʀᴋᴇʀ |
 
 ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇs after **ni:** are called (subsequent) ꜱᴇɴᴛᴇɴᴄᴇs.
 
@@ -79,7 +85,7 @@ As long as ɴᴀᴍᴇs are single words only (like [place names](#place-names))
 |:-|:-|:-|
 | [**ni: jan Melani li kama lon tomo mi**](#lesson-17) | ꜱᴇɴᴛᴇɴᴄᴇ | ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ |
 
-The ᴄᴏɴᴛᴇxᴛ ᴘʜʀᴀꜱᴇ (i.e. ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs before **la**) is also called ꜰʀᴀɢᴍᴇɴᴛ.
+The ᴄᴏɴᴛᴇxᴛ ᴘʜʀᴀꜱᴇ (i.e. a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ before **la**) is also called ꜰʀᴀɢᴍᴇɴᴛ.
 
 | | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
@@ -95,19 +101,17 @@ Additional ᴘʀᴇ-ᴠᴇʀʙs are omitted.
 |:-|
 | *I have to learn.* → *I have to know.* |
 
-Instead of converting a ᴘʀᴇ-ᴠᴇʀʙ + ᴍᴀɪɴ ᴠᴇʀʙ into a ɴᴏᴜɴ + ᴀᴅᴊᴇᴄᴛɪᴠᴇ, the ᴘʀᴇ-ᴠᴇʀʙ is omitted and only the ᴍᴀɪɴ ᴠᴇʀʙ is converted into a ɴᴏᴜɴ.
+When converting an ᴀᴅᴊᴇᴄᴛɪᴠᴇ with a ᴘʀᴇ-ᴠᴇʀʙ into a ɴᴏᴜɴ or a ᴠᴇʀʙ, the ᴘʀᴇ-ᴠᴇʀʙ is omitted.
 
-| ᴠᴇʀʙ ᴘʜʀᴀꜱᴇ kama ante → ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ ~~kama~~ ante |
+| ~~kama~~ ante | ona li ~~kama~~ ante e ijo. |
+|:-|:-|
+| *change* | *She changed something.* |
+
+Instead of using the ᴠᴇʀʙ **pilin** with a ɴᴏᴜɴ with an omitted ᴘʀᴇ-ᴠᴇʀʙ as its ᴏʙᴊᴇᴄᴛ, it is used as a ɢᴇɴɪᴛɪᴠᴇ ᴘʜʀᴀꜱᴇ.
+
+| mi pilin e kama pi ijo ike. → mi pilin ike. |
 |:-|
-| *is changing* → *change* |
-
-### [NUMBER](nasin-nimi#number)
-
-ꜱᴏɴᴊᴀ introduces a ["more complex and precise counting system"](#lesson-12), where [**ɴᴜᴍʙᴇʀ**](nasin-nimi.md#number)s can be used as [**ᴘᴀʀᴛɪᴄʟᴇ**](nasin-nimi.md#particle)s, adding them (and their numeric value) one after another.
-
-| palisa luka tu |
-|:-|
-| *seven fingers* |
+| *I feel bad.* |
 
 ## Punctuation
 
@@ -121,49 +125,43 @@ Instead of converting a ᴘʀᴇ-ᴠᴇʀʙ + ᴍᴀɪɴ ᴠᴇʀʙ into a ɴᴏ
 
 A *colon* stands between a ɴᴏᴜɴ and a ꜱᴇɴᴛᴇɴᴄᴇ that the ɴᴏᴜɴ represents, forming a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ.
 
-| mi wile e ni: jan Melani li kama tawa tomo mi. |
+| mi wile e ni: jan Melani li kama lon tomo mi. |
 |:-|
 | *I want Mélanie to visit me.* |
 
 ### Comma
 
-A *comma* between two ɪɴᴅɪᴄᴀᴛɪᴠᴇ ᴘʜʀᴀꜱᴇs can be safely removed.
+A coordinating *comma* between two ɪɴᴅɪᴄᴀᴛɪᴠᴇ ᴘʜʀᴀꜱᴇs can be safely removed.
 
 | ma mama li lili, li lete. → ma mama li lili li lete. |
 |:-|
 | *The fatherland is small and cold.* |
 
-A *comma* between two ᴀᴄᴄᴜꜱᴀᴛɪᴠᴇ ᴘʜʀᴀꜱᴇs can be safely removed.
+A coordinating *comma* between two ᴀᴄᴄᴜꜱᴀᴛɪᴠᴇ ᴘʜʀᴀꜱᴇs can be safely removed.
 
-| (ᴛᴇᴘᴀɴ) ona li seli e soweli, e pan. → ona li seli e soweli e pan. |
+| ona li seli e soweli, e pan. → ona li seli e soweli e pan. |
 |:-|
 | *She cooks the hares and some rice.* |
 
-A *comma* between two ɢᴇɴɪᴛɪᴠᴇ ᴘʜʀᴀꜱᴇs can be safely removed.
+A coordinating *comma* between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can be safely removed.
 
-| (ᴛᴇᴘᴀɴ) ona li sona e tomo pi telo nasa, pi ma ante → (ᴛᴇᴘᴀɴ) ona li sona e tomo pi telo nasa pi ma ante. |
-|:-|
-| *She knows a foreign bar.* |
-
-A *comma* between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can be safely removed.
-
-| (ᴛᴇᴘᴀɴ) mi pana e kala tawa ona, lon tomo. → mi pana e kala tawa ona lon tomo. |
+| mi pana e kala tawa ona, lon tomo. → mi pana e kala tawa ona lon tomo. |
 |:-|
 | *I give fish to her in the home.* |
 
-A *comma* between a ꜱᴇɴᴛᴇɴᴄᴇ followed by the ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ **a!** can be safely removed.
+A coordinating *comma* between a ꜱᴇɴᴛᴇɴᴄᴇ followed by the ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ **a!** can be safely removed.
 
-| (ᴛᴇᴘᴀɴ) sina suli, a! → sina suli a! |
+| sina suli, a! → sina suli a! |
 |:-|
 | *You're so tall!* |
 
-A *comma* between two ꜱᴇɴᴛᴇɴᴄᴇs can't be safely removed.
+A coordinating *comma* between two ꜱᴇɴᴛᴇɴᴄᴇs can't be safely removed.
 
 | jan Mawijo li kepeken ilo alasa, taso linja li pakala. |
 |:-|
 | *Mawijo uses the bow, but the string breaks.* |
 
-A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** can't be safely removed.
+A subordinating *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** can't be safely removed.
 
 | mi pona tawa jan, la jan li pona tawa mi. |
 |:-|
@@ -674,7 +672,12 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 
 | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|
-| **a** <br>ᴘᴀʀᴛɪᴄʟᴇ **(**[**emphasis, emotion**](#official-toki-pona-dictionary) **or confirmation)** | **a** <br>ᴘᴀʀᴛɪᴄʟᴇ **(emotion word), (emphasis or confirmation)** |
+| **a** <br>ᴘᴀʀᴛɪᴄʟᴇ **(**[**emphasis**, **emotion**](#official-toki-pona-dictionary) **or confirmation)** | **a** <br>ᴘᴀʀᴛɪᴄʟᴇ **(emotion word)**, **(emphasis or confirmation)** |
+| | |
+| **anpa** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**bowing down**, **downward,**](#official-toki-pona-dictionary) **humble**, **lowly**, **dependent** | **anpa** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **humble**, **lowly**, **dependent**: (*kama anpa*) **downward**; **bowing down** |
+| | |
+| **awen** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **enduring**, **kept**, [**protected**, **safe**](#official-toki-pona-dictionary) **waiting**, **staying** | **awen** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **enduring**, **kept**, **waiting**, **staying**: (*ken awen*) **protected**, **safe** |
+| | |
 | **kalama** <br>[ᴠᴇʀʙ **to produce a sound**](#official-toki-pona-dictionary); **recite**, **utter aloud** | **kalama** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **producing a sound** <br>ᴠᴇʀʙ **to recite**, **utter** **aloud** |
 | | |
 | **linja** <br>ɴᴏᴜɴ **long** [**and**](#official-toki-pona-dictionary) **flexible thing** | **linja** <br>ɴᴏᴜɴ **long flexible thing** |
@@ -683,6 +686,8 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 | | |
 | **lukin** <br>ᴘʀᴇ-ᴠᴇʀʙ [**to seek, look for**](#official-toki-pona-dictionary)**, try to** | **lukin** <br>ᴘʀᴇ-ᴠᴇʀʙ **to try to**; **to seek to**: (*lukin jo*) **to look for** |
 | | |
+| **moli** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **dead**, [**dying**](#official-toki-pona-dictionary) | **moli** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **dead**: (*kama moli*) **dying** |
+| | |
 | **seli** <br>[ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#official-toki-pona-dictionary) **fire** | **seli** <br>ɴᴏᴜɴ **fire** |
 | | |
 | **toki** <br>ᴠᴇʀʙ **to communicate**, **say**, **speak**, [**say**, **talk**, **use language,**](#official-toki-pona-dictionary) **think** | **toki** <br>ᴠᴇʀʙ **to communicate**, **say**, **speak**; **think** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **talking**, **using language** | 
@@ -690,6 +695,3 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 | **poka** <br>ɴᴏᴜɴ **hip**, **side**; **next to**, [**nearby**](#official-toki-pona-dictionary), **vicinity** | **poka** <br>ɴᴏᴜɴ **hip**, **side**; **next to**, **vicinity** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **nearby** |
 | | |
 | **unpa** <br>ᴠᴇʀʙ **to have** [**sexual or marital relations**](#official-toki-pona-dictionary) **with** | **unpa** <br>ᴠᴇʀʙ **to have sex with** |
-
-
-

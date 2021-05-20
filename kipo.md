@@ -66,7 +66,7 @@ When ᴋɪᴘᴏ turns a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs into a ɴᴏᴜɴ, the �
 
 ## Content Words
 
-ᴋɪᴘᴏ often extends the meaning of an ᴀᴅᴊᴇᴄᴛɪᴠᴇ as a ɴᴏᴜɴ. In most cases, the intended meaning could be easily expressed adding a word or two before the ᴀᴅᴊᴇᴄᴛɪᴠᴇ.
+When ᴋɪᴘᴏ converts an ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ, seemingly arbitrarily complex ideas may be implied.
 
 | | ᴋɪᴘᴏ | ꜱᴏɴᴊᴀ/ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
@@ -75,7 +75,7 @@ When ᴋɪᴘᴏ turns a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs into a ɴᴏᴜɴ, the �
 | *news* | **sin** | **toki (pi ijo sin)** |
 | *day* | **suno** | **tenpo suno** |
 
-When **jaki** and **pimeja** become ɴᴏᴜɴs, they appear as if an **ijo** went missing. Apparently, this makes sense, if they mean something primordial (from a human perspective) like **suno**, **sewi**, **seli** and so on. (Cf. [ᴛᴇᴘᴀɴ](tepan.md#thing).)
+When **jaki** and **pimeja** become ɴᴏᴜɴs, they appear as if an **ijo** went missing. Apparently, this makes sense, if they mean something primordial (from a human perspective) like **suno**, **sewi**, **seli** and so on. (Cf. [ᴛᴇᴘᴀɴ](sin.md#thing).)
 
 | | ᴋɪᴘᴏ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
