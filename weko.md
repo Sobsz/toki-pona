@@ -5,6 +5,7 @@ i marked things to be checked with `(?)`
 
 | |
 |:-|
+| [ala](#ala) |
 | [alasa](#alasa) |
 | [anu](#anu) |
 | [e](#e) |
@@ -17,10 +18,17 @@ i marked things to be checked with `(?)`
 | [pona](#pona) |
 | [pu](#pu) |
 | [Prepositions](#prepositions) |
+| [Extra words](#extra-words) |
 | [Oddities](#oddities) |
-| [Synonyms](#synonyms) |
-| [Old words](#old-words) |
-| [New words](#new-words) |
+
+## ala
+
+ᴡᴇᴋᴏ uses the **X ala X** construction in places other than the predicate (?).
+
+| | ᴡᴇᴋᴏ | ᴛᴇᴘᴀɴ |
+|:-|:-|:-|
+| *Did **you** do it?* | **sina ala sina li pali e ni?** | **sina pali e ni anu seme?** (?) |
+| *Was the fish you ate good?* | **sina moku e kala (pi) pona ala pona?** | **sina moku e kala pona anu kala seme?** |
 
 ## alasa
 
@@ -142,19 +150,9 @@ When ᴡᴇᴋᴏ turns **lon** or **tan** into a ɴᴏᴜɴ, the ɴᴏᴜɴ can
 | *location*, *address* | **lon** | **ijo** (context) |
 | *origin*, *source*, *cause*, *reason*, *motive* | **tan** | **mama** |
 
-## Oddities
-
-ᴡᴇᴋᴏ has once used the **X ala X** construction with **o**, though it's not known whether this pattern will continue.
-
-| | ᴡᴇᴋᴏ | ᴛᴇᴘᴀɴ |
-|:-|:-|:-|
-| *Should he do it?* | *ona o ala o pali e ni?* | *ona o pali e ni anu seme? |
-
 ## Synonyms
 
 ᴡᴇᴋᴏ distinguishes **kin** from **a**, **kipisi** from **tu**, and **namako** from **sin**, but doesn't use **oko**.
-
-## Old words
 
 ᴡᴇᴋᴏ uses the following deprecated words:
 
@@ -165,8 +163,6 @@ When ᴡᴇᴋᴏ turns **lon** or **tan** into a ɴᴏᴜɴ, the ɴᴏᴜɴ can
 | **monsuta** | *monster, to cause fear* | **pilin ike tan ike ken** (?) |
 | **pake** | *false, to trick* | **lon ala** |
 | **powe** | *stop, cease* | **pini** |
-
-## New words
 
 ᴡᴇᴋᴏ uses the following new words:
 
@@ -196,3 +192,11 @@ When ᴡᴇᴋᴏ turns **lon** or **tan** into a ɴᴏᴜɴ, the ɴᴏᴜɴ can
 | **poni** | *pony from My Little Pony: Friendship is Magic* |
 | **sikomo** | *on a higher tier/plane, enlighten(ed), epic; to an exceedingly great extent* (from *sicko mode*) |
 | **weko** | *Tetris* (from **weka leko**) |
+
+## Oddities
+
+ᴡᴇᴋᴏ has on one occasion used the **X ala X** construction with **o**, though it's not known whether this pattern will continue.
+
+| | ᴡᴇᴋᴏ | ᴛᴇᴘᴀɴ |
+|:-|:-|:-|
+| *Should he do it?* | *ona o ala o pali e ni?* | *ona o pali e ni anu seme? |
