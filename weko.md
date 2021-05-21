@@ -1,6 +1,6 @@
 # Not Very Good Toki Pona (ᴡᴇᴋᴏ)
 
-something something ma pona
+something something ma pona  
 i marked things to be checked with `(?)`
 
 | |
