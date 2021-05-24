@@ -15,6 +15,7 @@ i marked things to be checked with `(?)`
 | [li](#li) |
 | [kulupu](#kulupu) |
 | [o](#o) |
+| [pilin](#pilin) |
 | [pona](#pona) |
 | [pu](#pu) |
 | [Prepositions](#prepositions) |
@@ -25,7 +26,7 @@ i marked things to be checked with `(?)`
 
 ᴡᴇᴋᴏ uses the **X ala X** construction in places other than the predicate (?).
 
-| | ᴡᴇᴋᴏ | ᴛᴇᴘᴀɴ |
+| | ᴡᴇᴋᴏ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
 | *Did **you** do it?* | **sina ala sina li pali e ni?** | **sina pali e ni anu seme?** (?) |
 | *Was the fish you ate good?* | **sina moku e kala (pi) pona ala pona?** | **sina moku e kala pona anu kala seme?** |
@@ -34,7 +35,7 @@ i marked things to be checked with `(?)`
 
 ᴡᴇᴋᴏ uses **alasa** for *try to* where ᴛᴇᴘᴀɴ uses **lukin**. Additionally, ᴡᴇᴋᴏ uses **alasa** for *seek* where ᴛᴇᴘᴀɴ limits it to *hunt*.
 
-| | ᴡᴇᴋᴏ | ᴛᴇᴘᴀɴ |
+| | ᴡᴇᴋᴏ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
 | *I'm trying to fix it.* | **mi alasa pona e ona.** | **mi lukin pona e ona.** |
 | *I found it!* | **mi pini alasa!** | **mi kama jo e ona!** |
@@ -43,7 +44,7 @@ i marked things to be checked with `(?)`
 
 ᴡᴇᴋᴏ uses **anu** as a ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ meaning *to choose*.
 
-| | ᴡᴇᴋᴏ | ᴛᴇᴘᴀɴ |
+| | ᴡᴇᴋᴏ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
 | *Choose your character!* | **o anu e jan sina!** | **o kama jo e jan sina!** |
 
@@ -51,7 +52,7 @@ i marked things to be checked with `(?)`
 
 ᴡᴇᴋᴏ uses **e** without an object, as a transitivity marker.
 
-| | ᴡᴇᴋᴏ | ᴛᴇᴘᴀɴ |
+| | ᴡᴇᴋᴏ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
 | *They eat.* | **ona li moku e.** | **ona li moku.** / **ona li moku e ijo.** |
 
@@ -59,7 +60,7 @@ i marked things to be checked with `(?)`
 
 ᴡᴇᴋᴏ uses **e** to mean *trade/buy*, moving the previous meaning of *market* to **tomo esun** or **ma esun**.
 
-| | ᴡᴇᴋᴏ | ᴛᴇᴘᴀɴ |
+| | ᴡᴇᴋᴏ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
 | *I bought some new pants.* | **mi kama esun e len noka sin.** | **mi kama jo e len noka sin lon esun.** |
 
@@ -74,15 +75,15 @@ i marked things to be checked with `(?)`
 
 ᴡᴇᴋᴏ sometimes omits ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs in ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs.
 
-| | ᴡᴇᴋᴏ | ᴛᴇᴘᴀɴ |
+| | ᴡᴇᴋᴏ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
-| *I think it's good for everyone.* | **(tawa) mi la, ona li pona tawa jan ale.** | **tawa mi la, ona li pona tawa jan ale.** |
+| *I think it's good for everyone.* | **(tawa) mi la, ona li pona tawa jan ale.** | **tawa mi la ona li pona tawa jan ale.** |
 
 ᴡᴇᴋᴏ uses **la** as a topic marker.
 
-| | ᴡᴇᴋᴏ | ᴛᴇᴘᴀɴ |
+| | ᴡᴇᴋᴏ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
-| *Bugs, I don't want to touch them.* | **pipi la, mi wile ala pilin e ona.** | **mi wile ala pilin e pipi.** |
+| *Bugs, I don't want to touch them.* | **pipi la, mi wile ala luka e ona.** | **mi wile ala luka e pipi.** |
 | *On the topic of books, I just learned how to read!* | *lipu la, tenpo poka la mi kama sona lukin e sitelen!* | (?) |
 | *In other news, I bought some new clothes.* | *ante la, mi kama [esun](#esun) e len sin.* | (?) |
 
@@ -90,7 +91,7 @@ i marked things to be checked with `(?)`
 
 ᴡᴇᴋᴏ sometimes omits the subject when it's clear what it should be, especially when it's also the subject of the previous sentence.
 
-| | ᴡᴇᴋᴏ | ᴛᴇᴘᴀɴ |
+| | ᴡᴇᴋᴏ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
 | *"She's very friendly." "Writes well, too."* | **"ona li pona mute tawa jan." "li sitelen pona kin."** | **"ona li pona mute tawa jan." "ona li sitelen pona kin."**
 
@@ -98,7 +99,7 @@ i marked things to be checked with `(?)`
 
 ᴡᴇᴋᴏ uses **ken** for *random*.
 
-| | ᴡᴇᴋᴏ | ᴛᴇᴘᴀɴ |
+| | ᴡᴇᴋᴏ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
 | *It's all because of RNG.* | **ni ale li tan ken.** | (?) |
 
@@ -106,7 +107,7 @@ i marked things to be checked with `(?)`
 
 ᴡᴇᴋᴏ uses **kulupu** for groups of all things, not just humans.
 
-| | ᴡᴇᴋᴏ | ᴛᴇᴘᴀɴ |
+| | ᴡᴇᴋᴏ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
 | *This is my pen collection.* | *ni li kulupu mi pi ilo sitelen.* | *ni li ilo sitelen mute mi.* (?) |
 | *In the future, we'll be in the desires of our generation.* | **tenpo kama la, mi lon wile pi kulupu jan tenpo.** | **tenpo kama la, mi lon wile pi kulupu tenpo.** |
@@ -115,15 +116,19 @@ i marked things to be checked with `(?)`
 
 ᴡᴇᴋᴏ uses **mi o** as *I should*, avoiding the deliberate conflation of *want*/*need* and missing the point of Toki Pona.
 
-| | ᴡᴇᴋᴏ | ᴛᴇᴘᴀɴ |
+| | ᴡᴇᴋᴏ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
 | *I should eat something.* | **mi o moku e ijo.** | **mi wile moku e ijo.** |
+
+## pilin
+
+ᴡᴇᴋᴏ uses **pilin** to mean *touch*/*press* when **luka** would suffice.
 
 ## pona
 
 ᴡᴇᴋᴏ almost never uses **pona** to mean *simple*, once again missing the point of Toki Pona.
 
-| | ᴡᴇᴋᴏ | ᴛᴇᴘᴀɴ |
+| | ᴡᴇᴋᴏ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
 | *This job is simple.* | **pali ni li wile e pali lili.** | **pali ni li pona.** |
 
@@ -131,7 +136,7 @@ i marked things to be checked with `(?)`
 
 ᴡᴇᴋᴏ uses **pu** as a noun, meaning *the official Toki Pona book*.
 
-| | ᴡᴇᴋᴏ | ᴛᴇᴘᴀɴ |
+| | ᴡᴇᴋᴏ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
 | *Can anyone look for this in their copy of Toki Pona: The Language of Good by Sonja Lang?* | **jan li ken ala ken alasa e ni lon pu ona?** | **jan li ken ala ken alasa e ni lon lipu ona Pu?** |
 
@@ -139,7 +144,7 @@ i marked things to be checked with `(?)`
 
 ᴡᴇᴋᴏ uses ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs in the subject.
 
-| | ᴡᴇᴋᴏ | ᴛᴇᴘᴀɴ |
+| | ᴡᴇᴋᴏ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
 | *The bread on the table looks rotten.* | **pan lon supa li jaki tawa lukin.** | (?) |
 
