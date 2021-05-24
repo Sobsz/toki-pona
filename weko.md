@@ -58,7 +58,7 @@ i marked things to be checked with `(?)`
 
 ## esun
 
-ᴡᴇᴋᴏ uses **e** to mean *trade/buy*, moving the previous meaning of *market* to **tomo esun** or **ma esun**.
+ᴡᴇᴋᴏ uses **esun** to mean *trade/buy*, moving the previous meaning of *market* to **tomo esun** or **ma esun**.
 
 | | ᴡᴇᴋᴏ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
@@ -122,7 +122,11 @@ i marked things to be checked with `(?)`
 
 ## pilin
 
-ᴡᴇᴋᴏ uses **pilin** to mean *touch*/*press* when **luka** would suffice.
+ᴡᴇᴋᴏ tends to **pilin** to mean *touch*/*press* where **luka** would suffice.
+
+| | ᴡᴇᴋᴏ | ꜱᴏɴᴊᴀ |
+|:-|:-|:-|
+| *Don't touch that button!* | **o pilin ala e nena ni!** | **o luka ala e nena ni!** |
 
 ## pona
 
@@ -154,6 +158,14 @@ When ᴡᴇᴋᴏ turns **lon** or **tan** into a ɴᴏᴜɴ, the ɴᴏᴜɴ can
 |:-|:-|:-|
 | *location*, *address* | **lon** | **ijo** (context) |
 | *origin*, *source*, *cause*, *reason*, *motive* | **tan** | **mama** |
+
+## weka
+
+ᴡᴇᴋᴏ uses **weka** to mean *leave*.
+
+| | ᴡᴇᴋᴏ | ꜱᴏɴᴊᴀ |
+|:-|:-|:-|
+| *She left her house.* | **ona li weka tan tomo ona.** | **ona li tawa weka tan tomo ona.** |
 
 ## Synonyms
 
@@ -202,6 +214,13 @@ When ᴡᴇᴋᴏ turns **lon** or **tan** into a ɴᴏᴜɴ, the ɴᴏᴜɴ can
 
 ᴡᴇᴋᴏ has on one occasion used the **X ala X** construction with **o**, though it's not known whether this pattern will continue.
 
-| | ᴡᴇᴋᴏ | ᴛᴇᴘᴀɴ |
+| | ᴡᴇᴋᴏ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
-| *Should he do it?* | *ona o ala o pali e ni?* | *ona o pali e ni anu seme? |
+| *Should he do it?* | *ona o ala o pali e ni?* | *ona o pali e ni anu seme?* |
+
+ᴡᴇᴋᴏ advocates for putting the comma before **la** in if/then statements to emphasize the preceding sentence, but doesn't do so in practice.
+
+| | ᴡᴇᴋᴏ | ꜱᴏɴᴊᴀ |
+|:-|:-|:-|
+| *If they arrive, the party will be ruined.* | *ona li kama la, musi li kama pakala.* | *ona li kama, la musi li kama pakala.* |
+| *They arrived, ruining the party.* | *ona li kama, la musi li kama pakala.* | *ona li kama. ni la, musi li kama pakala.* (?) |
