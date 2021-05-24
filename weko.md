@@ -30,8 +30,8 @@ i marked things to be checked with `(?)`
 
 | | ᴡᴇᴋᴏ | ᴘᴜ |
 |:-|:-|:-|
-| *Did **you** do it?* | **sina ala sina li pali e ni?** | **sina pali e ni anu seme?** (?) |
-| *Was the fish you ate good?* | **sina moku e kala (pi) pona ala pona?** | **sina moku e kala pona anu kala seme?** |
+| *Did **you** do it?* | **sina ala sina li pali e ni?** | **sina anu jan ante li pali e ni?** /<br> **sina pali e ni anu seme?** /<br> **sina pali ala pali e ni?** |
+| *Was the fish you ate good?* | **sina moku e kala (pi) pona ala pona?** | **sina moku e kala. ona li pona ala pona?** /<br>**sina moku e kala pona anu seme?** /<br> **sina moku ala moku e kala pona?**  |
 
 ## alasa
 
@@ -40,15 +40,15 @@ i marked things to be checked with `(?)`
 | | ᴡᴇᴋᴏ | ᴘᴜ |
 |:-|:-|:-|
 | *I'm trying to fix it.* | **mi alasa pona e ona.** | **mi lukin pona e ona.** |
-| *I found it!* | **mi pini alasa!** | **mi kama jo e ona!** |
+| *She's seeking fortune.* | **ona li alasa e mani mute.** | **ona li lukin jo e mani mute.** |
 
 ## anu
 
 ᴡᴇᴋᴏ uses **anu** as a ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ meaning *to choose*.
 
-| | ᴡᴇᴋᴏ | ᴘᴜ |
+| | ᴡᴇᴋᴏ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
-| *Choose your character!* | **o anu e jan sina!** | **o kama jo e jan sina!** |
+| *Choose your character!* | **o anu e jan sina!** | **o kama wile e jan sina!** |
 
 ## e
 
@@ -64,7 +64,8 @@ i marked things to be checked with `(?)`
 
 | | ᴡᴇᴋᴏ | ᴘᴜ |
 |:-|:-|:-|
-| *I bought some new pants.* | **mi kama esun e len noka sin.** | **mi kama jo e len noka sin lon esun.** |
+| *I bought some new pants.* | **mi kama esun e len noka sin.** | **mi kama jo e len noka sin kepeken mani.** |
+| *Make sure to stop by the market!* | | **o [pake](#extra-words) lon ma esun!** | **o kama lon esun!** |
 
 ## la
 
@@ -86,8 +87,8 @@ i marked things to be checked with `(?)`
 | | ᴡᴇᴋᴏ | ᴘᴜ |
 |:-|:-|:-|
 | *Bugs, I don't want to touch them.* | **pipi la, mi wile ala luka e ona.** | **mi wile ala luka e pipi.** |
-| *On the topic of books, I just learned how to read!* | *lipu la, tenpo poka la mi kama sona lukin e sitelen!* | (?) |
-| *In other news, I bought some new clothes.* | *ante la, mi kama [esun](#esun) e len sin.* | (?) |
+| *On the topic of books, I just learned how to read!* | **lipu la, tenpo poka la mi kama sona lukin e sitelen!** | (?) |
+| *In other news, I bought some new clothes.* | **ante la, mi kama [esun](#esun) e len sin.** | (?) |
 
 ## li
 
@@ -124,7 +125,7 @@ i marked things to be checked with `(?)`
 
 ## pilin
 
-ᴡᴇᴋᴏ tends to **pilin** to mean *touch*/*press* where **luka** would suffice.
+ᴡᴇᴋᴏ tends to use **pilin** to mean *touch*/*press* where **luka** would suffice.
 
 | | ᴡᴇᴋᴏ | ᴘᴜ |
 |:-|:-|:-|
