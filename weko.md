@@ -86,7 +86,7 @@ i marked things to be checked with `(?)`
 
 | | ᴡᴇᴋᴏ | ᴘᴜ |
 |:-|:-|:-|
-| *Bugs, I don't want to touch them.* | **pipi la, mi wile ala luka e ona.** | **mi wile ala luka e pipi.** |
+| *Bugs, I don't want to touch them.* | **pipi la, mi wile ala [pilin](#pilin) e ona.** | **mi wile ala luka e pipi.** |
 | *On the topic of books, I just learned how to read!* | **lipu la, tenpo poka la mi kama sona lukin e sitelen!** | (?) |
 | *In other news, I bought some new clothes.* | **ante la, mi kama [esun](#esun) e len sin.** | (?) |
 
