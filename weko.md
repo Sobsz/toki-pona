@@ -217,7 +217,7 @@ When ᴡᴇᴋᴏ turns **lon** or **tan** into a ɴᴏᴜɴ, the ɴᴏᴜɴ can
 ᴡᴇᴋᴏ also uses a few humorous words: 
 
 | Word | Definition |
-|:-|:-|:-|
+|:-|:-|
 | **jete** | *yeet, yote, ~~projectile, to project,~~ to throw* |
 | **kijetesantakalu** | *member of the Musteloidea superfamily* |
 | **nja** | *(a variant of **mu** for cats and other felines)* |
@@ -228,7 +228,7 @@ When ᴡᴇᴋᴏ turns **lon** or **tan** into a ɴᴏᴜɴ, the ɴᴏᴜɴ can
 
 ## Oddities
 
-ᴡᴇᴋᴏ has on one occasion used the **X ala X** construction with **o**, though it's not known whether this pattern will continue.
+ᴡᴇᴋᴏ has on one occasion used the **X ala X** construction with **o**.
 
 | | ᴡᴇᴋᴏ | ᴘᴜ |
 |:-|:-|:-|
