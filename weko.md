@@ -14,11 +14,11 @@ i marked things to be checked with `(?)`
 | [la](#la) |
 | [li](#li) |
 | [kulupu](#kulupu) |
-| [o](#o) |
 | [pilin](#pilin) |
 | [pona](#pona) |
 | [pu](#pu) |
 | [weka](#weka) |
+| [wile](#wile) |
 | [Numbers](#numbers) |
 | [Prepositions](#prepositions) |
 | [Extra words](#extra-words) |
@@ -65,7 +65,7 @@ i marked things to be checked with `(?)`
 | | ᴡᴇᴋᴏ | ᴘᴜ |
 |:-|:-|:-|
 | *I bought some new pants.* | **mi kama esun e len noka sin.** | **mi kama jo e len noka sin kepeken mani.** |
-| *Make sure to stop by the market!* | | **o [pake](#extra-words) lon ma esun!** | **o kama lon esun!** |
+| *This little piggy went to the market.* | **soweli lili ni li tawa ma esun.** | **soweli lili ni li tawa esun.** |
 
 ## la
 
@@ -74,7 +74,7 @@ i marked things to be checked with `(?)`
 | | ᴡᴇᴋᴏ | ᴘᴜ |
 |:-|:-|:-|
 | *If you are dead, you can't speak.* | **sina moli la, sina ken ala toki.** | **sina moli, la sina ken ala toki.** |
-| *If it still hurts tomorrow, I'll talk to a doctor.* | **tenpo suno kama la ona li awen pilin ike la, mi toki tawa jan pi pona sijelo.** | **ona li awen pilin ike lon tenpo suno kama, la mi toki tawa jan pi pona sijelo.** | 
+| *If it still hurts tomorrow, I'll talk to a doctor.* | **tenpo suno kama la ona li awen pana e pilin ike la, mi toki tawa jan pi pona sijelo.** | **ona li awen pana e pilin ike lon tenpo suno kama, la mi toki tawa jan pi pona sijelo.** | 
 
 ᴡᴇᴋᴏ sometimes omits ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs in ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs.
 
@@ -84,11 +84,11 @@ i marked things to be checked with `(?)`
 
 ᴡᴇᴋᴏ uses **la** as a topic marker.
 
-| | ᴡᴇᴋᴏ | ᴘᴜ |
+| | ᴡᴇᴋᴏ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
 | *Bugs, I don't want to touch them.* | **pipi la, mi wile ala [pilin](#pilin) e ona.** | **mi wile ala luka e pipi.** |
-| *On the topic of books, I just learned how to read!* | **lipu la, tenpo poka la mi kama sona lukin e sitelen!** | (?) |
-| *In other news, I bought some new clothes.* | **ante la, mi kama [esun](#esun) e len sin.** | (?) |
+| *On the topic of books, I just learned how to read!* | **lipu la, tenpo poka la mi kama sona lukin e sitelen!** | **ni lipu la tenpo poka la mi kama sona lukin e sitelen!** |
+| *In other news, I bought some new clothes.* | **(ijo) ante la, mi [esun](#esun) e len sin.** | **ijo ante la mi kama [esun](#esun) e len sin.** |
 
 ## li
 
@@ -96,7 +96,7 @@ i marked things to be checked with `(?)`
 
 | | ᴡᴇᴋᴏ | ᴘᴜ |
 |:-|:-|:-|
-| *"She's very friendly." "Writes well, too."* | **"ona li pona mute tawa jan." "li sitelen pona kin."** | **"ona li pona mute tawa jan." "ona li sitelen pona kin."**
+| *"She's very friendly." "Writes well, too."* | **"ona li pona mute tawa jan." "li sitelen pona kin."** | **"ona li pona mute tawa jan." "sama la ona li sitelen pona."** |
 
 ## ken
 
@@ -112,16 +112,8 @@ i marked things to be checked with `(?)`
 
 | | ᴡᴇᴋᴏ | ᴘᴜ |
 |:-|:-|:-|
-| *This is my pen collection.* | *ni li kulupu mi pi ilo sitelen.* | *ni li ilo sitelen mute mi.* (?) |
-| *In the future, we'll be in the desires of our generation.* | **tenpo kama la, mi lon wile pi kulupu jan tenpo.** | **tenpo kama la, mi lon wile pi kulupu tenpo.** |
-
-## o
-
-ᴡᴇᴋᴏ uses **mi o** as *I should*, avoiding the deliberate conflation of *want*/*need* and missing the point of Toki Pona.
-
-| | ᴡᴇᴋᴏ | ᴘᴜ |
-|:-|:-|:-|
-| *I should eat something.* | **mi o moku e ijo.** | **mi wile moku e ijo.** |
+| *This is my pen collection.* | **ni li kulupu mi pi ilo sitelen.** | **ni li ilo sitelen mute mi.** |
+| *I joined a book club.* | **mi kama lon kulupu jan lipu.** | **mi kama lon kulupu lipu.** |
 
 ## pilin
 
@@ -143,9 +135,9 @@ i marked things to be checked with `(?)`
 
 ᴡᴇᴋᴏ uses **pu** as a noun, meaning *the official Toki Pona book*.
 
-| | ᴡᴇᴋᴏ | ᴘᴜ |
+| | ᴡᴇᴋᴏ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
-| *Can anyone look for this in their copy of Toki Pona: The Language of Good by Sonja Lang?* | **jan li ken ala ken alasa e ni lon pu ona?** | **jan li ken ala ken alasa e ni lon lipu ona Pu?** |
+| *They wrote the word "tonsi" in their copy of Toki Pona: The Language of Good by Sonja Lang.* | **ona li sitelen e nimi "tonsi" lon pu ona.** | **ona li sitelen e nimi "tonsi" lon lipu pu ona.**<br>**ona li pu li sitelen e nimi "tonsi".** (maybe not) |
 
 ## weka
 
@@ -154,6 +146,14 @@ i marked things to be checked with `(?)`
 | | ᴡᴇᴋᴏ | ᴘᴜ |
 |:-|:-|:-|
 | *She left her house.* | **ona li weka tan tomo ona.** | **ona li tawa weka tan tomo ona.** |
+
+## wile
+
+ᴡᴇᴋᴏ uses **wile** almost exclusively as *want*, avoiding the deliberate conflation of *want*/*need* and missing the point of Toki Pona.
+
+| | ᴡᴇᴋᴏ | ᴘᴜ |
+|:-|:-|:-|
+| *I must eat.* | **mi moku ala la, mi moli.**<br>**mi o moku.**<br>**mi ken ala moku ala.**<br> | **mi wile moku.** |
 
 ## Numbers
 
@@ -171,11 +171,11 @@ i marked things to be checked with `(?)`
 
 | | ᴡᴇᴋᴏ | ᴘᴜ |
 |:-|:-|:-|
-| *The bread on the table looks rotten.* | **pan lon supa li jaki tawa lukin.** | (?) |
+| *The bread on the table looks rotten.* | **pan lon supa moku li jaki tawa lukin.** | **pan pi supa moku li jaki tawa lukin.** |
 
 When ᴡᴇᴋᴏ turns **lon** or **tan** into a ɴᴏᴜɴ, the ɴᴏᴜɴ can have the meaning of the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ's argument. This is similar to [***ᴋɪᴘᴏ***](kipo.md#Prepositions), but limited to *lon* and *tan*.
 
-| | ᴡᴇᴋᴏ/ᴋɪᴘᴏ | ᴘᴜ/ᴛᴇᴘᴀɴ |
+| | ᴡᴇᴋᴏ/ᴋɪᴘᴏ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
 | *location*, *address* | **lon** | **ijo** (context) |
 | *origin*, *source*, *cause*, *reason*, *motive* | **tan** | **mama** |
@@ -238,5 +238,8 @@ When ᴡᴇᴋᴏ turns **lon** or **tan** into a ɴᴏᴜɴ, the ɴᴏᴜɴ can
 
 | | ᴡᴇᴋᴏ | ᴘᴜ |
 |:-|:-|:-|
-| *If they arrive, the party will be ruined.* | *ona li kama la, musi li kama pakala.* | *ona li kama, la musi li kama pakala.* |
-| *They arrived, ruining the party.* | *ona li kama, la musi li kama pakala.* | *ona li kama. ni la, musi li kama pakala.* (?) |
+| *If they arrive, I'll open the door.* | *ona li kama la, mi open e lupa.* | *ona li kama, la mi open e lupa.* |
+| *They arrived, so I opened the door.* | *ona li kama, la mi open e lupa.* | *ona li kama. ni la, mi open e lupa.* |
+| *If summer is long, the river will dry out.* | *tenpo seli li suli la, telo pi linja telo li kama weka.* | *tenpo seli li suli, la telo pi linja telo li kama weka.* |
+| *The summer was long, causing the river to dry out.* | *tenpo seli li suli, la telo pi linja telo li kama weka.* | *tenpo seli li suli, li pali e ni: telo pi linja telo li kama weka.* |
+
