@@ -14,6 +14,7 @@ i marked things to be checked with `(?)`
 | [la](#la) |
 | [li](#li) |
 | [kulupu](#kulupu) |
+| [open/pini](#open-pini) |
 | [pilin](#pilin) |
 | [pona](#pona) |
 | [pu](#pu) |
@@ -56,7 +57,7 @@ i marked things to be checked with `(?)`
 
 | | ᴡᴇᴋᴏ | ᴘᴜ |
 |:-|:-|:-|
-| *They eat.* | **ona li moku e.** | **ona li moku.** / **ona li moku e ijo.** |
+| *They eat.* | **ona li moku e.** | **ona li moku (e ijo).** |
 
 ## esun
 
@@ -191,7 +192,7 @@ When ᴡᴇᴋᴏ turns **lon** or **tan** into a ɴᴏᴜɴ, the ɴᴏᴜɴ can
 | **kan** | *with, among* (ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ) | **lon poka** |
 | **leko** | *square, cube, stairs* | **sike ala**, **sijelo pi poka tu tu** |
 | **majuna** | *old* | **sin ala**, **pi tenpo pini weka** |
-| **monsuta** | *monster, to cause fear* | **pilin ike tan ike ken** (?) |
+| **monsuta** | *monster, to cause fear* | **pilin ike tan ike ken** |
 | **pake** | *false, to trick* | **lon ala** |
 | **powe** | *stop, cease* | **pini** |
 
@@ -200,7 +201,7 @@ When ᴡᴇᴋᴏ turns **lon** or **tan** into a ɴᴏᴜɴ, the ɴᴏᴜɴ can
 | Word | Definition | Alternatives |
 |:-|:-|:-|
 | **ete** | *beyond, exceeding, ~~outside of,~~ more than* (ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ) | **ijo li pona mute tawa ijo ante.**, **ijo li pona. ijo ante li pona mute.** |
-| **kiki** | *spiky* | **ken kipisi** |
+| **kiki** | *spiky, sharp, ~~angle, triangular~~* | **ken kipisi** |
 | **jasima** | *reflect, resound, mirror, be on the opposite/polar end of* | **pana sin** (?) |
 | **meso** | *average* | **li pona ala li ike ala**, **pi [pona/suli/etc] insa** |
 | **misa** | *rat, mouse, squirrel, rabbit, rodent* | **soweli lili** |
@@ -242,4 +243,3 @@ When ᴡᴇᴋᴏ turns **lon** or **tan** into a ɴᴏᴜɴ, the ɴᴏᴜɴ can
 | *They arrived, so I opened the door.* | *ona li kama, la mi open e lupa.* | *ona li kama. ni la, mi open e lupa.* |
 | *If summer is long, the river will dry out.* | *tenpo seli li suli la, telo pi linja telo li kama weka.* | *tenpo seli li suli, la telo pi linja telo li kama weka.* |
 | *The summer was long, causing the river to dry out.* | *tenpo seli li suli, la telo pi linja telo li kama weka.* | *tenpo seli li suli, li pali e ni: telo pi linja telo li kama weka.* |
-
