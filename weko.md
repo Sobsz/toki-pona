@@ -89,7 +89,7 @@ i marked things to be checked with `(?)`
 |:-|:-|:-|
 | *Bugs, I don't want to touch them.* | **pipi la, mi wile ala [pilin](#pilin) e ona.** | **mi wile ala luka e pipi.** |
 | *On the topic of books, I just learned how to read!* | **lipu la, tenpo poka la mi kama sona lukin e sitelen!** | **ni lipu la tenpo poka la mi kama sona lukin e sitelen!** |
-| *In other news, I bought some new clothes.* | **(ijo) ante la, mi [esun](#esun) e len sin.** | **ijo ante la mi kama [esun](#esun) e len sin.** |
+| *In other news, I bought some new clothes.* | **(ijo) ante la, mi [esun](#esun) e len sin.** | **ijo ante la mi kama jo e len sin kepeken mani.** |
 
 ## li
 
@@ -154,7 +154,7 @@ i marked things to be checked with `(?)`
 
 | | ᴡᴇᴋᴏ | ᴘᴜ |
 |:-|:-|:-|
-| *I must eat.* | **mi moku ala la, mi moli.**<br>**mi o moku.**<br>**mi ken ala moku ala.**<br> | **mi wile moku.** |
+| *I must eat.* | **mi moku ala la, mi moli.** /<br>**mi o moku.** /<br>**mi ken ala moku ala.** | **mi wile moku.** |
 
 ## Numbers
 
@@ -200,14 +200,14 @@ When ᴡᴇᴋᴏ turns **lon** or **tan** into a ɴᴏᴜɴ, the ɴᴏᴜɴ can
 
 | Word | Definition | Alternatives |
 |:-|:-|:-|
-| **ete** | *beyond, exceeding, ~~outside of,~~ more than* (ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ) | **ijo li pona mute tawa ijo ante.**, **ijo li pona. ijo ante li pona mute.** |
+| **ete** | *beyond, exceeding, ~~outside of,~~ more than* (ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ) | **ijo li pona mute tawa ijo ante.** / **ijo li pona. ijo ante li pona mute.** |
 | **kiki** | *spiky, sharp, ~~angle, triangular~~* | **ken kipisi** |
 | **jasima** | *reflect, resound, mirror, be on the opposite/polar end of* | **pana sin** (?) |
 | **meso** | *average* | **li pona ala li ike ala**, **pi [pona/suli/etc] insa** |
 | **misa** | *rat, mouse, squirrel, rabbit, rodent* | **soweli lili** |
 | **n** | *(thinking noise)* (ᴏɴᴏᴍᴀᴛᴏᴘᴏᴇɪᴀ) | |
 | **soko** | *fungus* | **kasi nasa** (?) |
-| **soto/teje** | *left/right* | **poka open/pini (pi sitelen Lasina)**, **poka pilin / pi pilin ala** |
+| **soto/teje** | *left/right* | **poka open/pini (pi sitelen Lasina anu sitelen pona)**, **poka pilin / pi pilin ala** |
 | **su** | *(forget what I just said)* | (?) |
 | **taki** | *sticky, magnet* | (?) |
 | **unu** | *purple* | **loje laso** |
