@@ -154,7 +154,7 @@ i marked things to be checked with `(?)`
 
 | | ᴡᴇᴋᴏ | ᴘᴜ |
 |:-|:-|:-|
-| *I must eat.* | **mi moku ala la, mi moli.** /<br>**mi o moku.** /<br>**mi ken ala moku ala.** | **mi wile moku.** |
+| *I must move.* | **mi tawa ala la, mi moli.** /<br>**mi o tawa.** /<br>**mi ken ala tawa ala.** | **mi wile tawa.** |
 
 ## Numbers
 
