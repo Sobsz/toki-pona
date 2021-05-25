@@ -154,7 +154,7 @@ i marked things to be checked with `(?)`
 
 | | ᴡᴇᴋᴏ | ᴘᴜ |
 |:-|:-|:-|
-| *I must move.* | **mi tawa ala la, mi moli.** /<br>**mi o tawa.** /<br>**mi ken ala tawa ala.** | **mi wile tawa.** |
+| *I must move.* | **mi tawa ala la, ike li kama.** /<br>**mi o tawa.** /<br>**mi ken ala tawa ala.** | **mi wile tawa.** |
 
 ## Numbers
 
