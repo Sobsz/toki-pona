@@ -1,4 +1,4 @@
-# Not Very Good Toki Pona (ᴡᴇᴋᴏ)
+# Not Very Good Toki Pona (ᴋɪᴛᴀ)
 
 something something ma pona  
 i marked things to be checked with `(?)`
@@ -27,65 +27,65 @@ i marked things to be checked with `(?)`
 
 ## ala
 
-ᴡᴇᴋᴏ uses the **X ala X** construction in places other than the predicate (?).
+ᴋɪᴛᴀ uses the **X ala X** construction in places other than the predicate (?).
 
-| | ᴡᴇᴋᴏ | ᴘᴜ |
+| | ᴋɪᴛᴀ | ᴘᴜ |
 |:-|:-|:-|
 | *Did **you** do it?* | **sina ala sina li pali e ni?** | **sina anu jan ante li pali e ni?** /<br> **sina pali e ni anu seme?** /<br> **sina pali ala pali e ni?** |
 | *Was the fish you ate good?* | **sina moku e kala (pi) pona ala pona?** | **sina moku e kala. ona li pona ala pona?** /<br>**sina moku e kala pona anu seme?** /<br> **sina moku ala moku e kala pona?**  |
 
 ## alasa
 
-ᴡᴇᴋᴏ uses **alasa** for *try to* where ᴛᴇᴘᴀɴ uses **lukin**. Additionally, ᴡᴇᴋᴏ uses **alasa** for *seek* where ᴛᴇᴘᴀɴ limits it to *hunt*.
+ᴋɪᴛᴀ uses **alasa** for *try to* where ᴛᴇᴘᴀɴ uses **lukin**. Additionally, ᴋɪᴛᴀ uses **alasa** for *seek* where ᴛᴇᴘᴀɴ limits it to *hunt*.
 
-| | ᴡᴇᴋᴏ | ᴘᴜ |
+| | ᴋɪᴛᴀ | ᴘᴜ |
 |:-|:-|:-|
 | *I'm trying to fix it.* | **mi alasa pona e ona.** | **mi lukin pona e ona.** |
 | *She's seeking fortune.* | **ona li alasa e mani mute.** | **ona li lukin jo e mani mute.** |
 
 ## anu
 
-ᴡᴇᴋᴏ uses **anu** as a ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ meaning *to choose*.
+ᴋɪᴛᴀ uses **anu** as a ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ meaning *to choose*.
 
-| | ᴡᴇᴋᴏ | ᴛᴇᴘᴀɴ |
+| | ᴋɪᴛᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
 | *Choose your character!* | **o anu e jan sina!** | **o kama wile e jan sina!** |
 
 ## e
 
-ᴡᴇᴋᴏ uses **e** without an object, as a transitivity marker.
+ᴋɪᴛᴀ uses **e** without an object, as a transitivity marker.
 
-| | ᴡᴇᴋᴏ | ᴘᴜ |
+| | ᴋɪᴛᴀ | ᴘᴜ |
 |:-|:-|:-|
 | *They eat.* | **ona li moku e.** | **ona li moku (e ijo).** |
 
 ## esun
 
-ᴡᴇᴋᴏ uses **esun** to mean *trade/buy*, moving the previous meaning of *market* to **tomo esun** or **ma esun**.
+ᴋɪᴛᴀ uses **esun** to mean *trade/buy*, moving the previous meaning of *market* to **tomo esun** or **ma esun**.
 
-| | ᴡᴇᴋᴏ | ᴘᴜ |
+| | ᴋɪᴛᴀ | ᴘᴜ |
 |:-|:-|:-|
 | *I bought some new pants.* | **mi kama esun e len noka sin.** | **mi kama jo e len noka sin kepeken mani.** |
 | *This little piggy went to the market.* | **soweli lili ni li tawa ma esun.** | **soweli lili ni li tawa esun.** |
 
 ## la
 
-ᴡᴇᴋᴏ uses a comma after **la** where ᴘᴜ uses it before **la**. ᴡᴇᴋᴏ sometimes omits the comma to clarify nesting, or if the head phrase is short (more like if there's an adverb for it in English haha gottem).
+ᴋɪᴛᴀ uses a comma after **la** where ᴘᴜ uses it before **la**. ᴋɪᴛᴀ sometimes omits the comma to clarify nesting, or if the head phrase is short (more like if there's an adverb for it in English haha gottem).
 
-| | ᴡᴇᴋᴏ | ᴘᴜ |
+| | ᴋɪᴛᴀ | ᴘᴜ |
 |:-|:-|:-|
 | *If you are dead, you can't speak.* | **sina moli la, sina ken ala toki.** | **sina moli, la sina ken ala toki.** |
 | *If it still hurts tomorrow, I'll talk to a doctor.* | **tenpo suno kama la ona li awen pana e pilin ike la, mi toki tawa jan pi pona sijelo.** | **ona li awen pana e pilin ike lon tenpo suno kama, la mi toki tawa jan pi pona sijelo.** | 
 
-ᴡᴇᴋᴏ sometimes omits ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs in ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs.
+ᴋɪᴛᴀ sometimes omits ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs in ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs.
 
-| | ᴡᴇᴋᴏ | ᴘᴜ |
+| | ᴋɪᴛᴀ | ᴘᴜ |
 |:-|:-|:-|
 | *I think it's good for everyone.* | **(tawa) mi la, ona li pona tawa jan ale.** | **tawa mi la ona li pona tawa jan ale.** |
 
-ᴡᴇᴋᴏ uses **la** as a topic marker.
+ᴋɪᴛᴀ uses **la** as a topic marker.
 
-| | ᴡᴇᴋᴏ | ᴛᴇᴘᴀɴ |
+| | ᴋɪᴛᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
 | *Bugs, I don't want to touch them.* | **pipi la, mi wile ala [pilin](#pilin) e ona.** | **mi wile ala luka e pipi.** |
 | *On the topic of books, I just learned how to read!* | **lipu la, tenpo poka la mi kama sona lukin e sitelen!** | **ni lipu la tenpo poka la mi kama sona lukin e sitelen!** |
@@ -93,74 +93,74 @@ i marked things to be checked with `(?)`
 
 ## li
 
-ᴡᴇᴋᴏ sometimes omits the subject when it's clear what it should be, especially when it's also the subject of the previous sentence.
+ᴋɪᴛᴀ sometimes omits the subject when it's clear what it should be, especially when it's also the subject of the previous sentence.
 
-| | ᴡᴇᴋᴏ | ᴘᴜ |
+| | ᴋɪᴛᴀ | ᴘᴜ |
 |:-|:-|:-|
 | *"She's very friendly." "Writes well, too."* | **"ona li pona mute tawa jan." "li sitelen pona kin."** | **"ona li pona mute tawa jan." "sama la ona li sitelen pona."** |
 
 ## ken
 
-ᴡᴇᴋᴏ uses **ken** for *random*.
+ᴋɪᴛᴀ uses **ken** for *random*.
 
-| | ᴡᴇᴋᴏ | ᴘᴜ |
+| | ᴋɪᴛᴀ | ᴘᴜ |
 |:-|:-|:-|
 | *It's all because of RNG.* | **ni ale li tan ken.** | (?) |
 
 ## kulupu
 
-ᴡᴇᴋᴏ uses **kulupu** for groups of all things, not just humans.
+ᴋɪᴛᴀ uses **kulupu** for groups of all things, not just humans.
 
-| | ᴡᴇᴋᴏ | ᴘᴜ |
+| | ᴋɪᴛᴀ | ᴘᴜ |
 |:-|:-|:-|
 | *This is my pen collection.* | **ni li kulupu mi pi ilo sitelen.** | **ni li ilo sitelen mute mi.** |
 | *I joined a book club.* | **mi kama lon kulupu jan lipu.** | **mi kama lon kulupu lipu.** |
 
 ## pilin
 
-ᴡᴇᴋᴏ tends to use **pilin** to mean *touch*/*press* where **luka** would suffice.
+ᴋɪᴛᴀ tends to use **pilin** to mean *touch*/*press* where **luka** would suffice.
 
-| | ᴡᴇᴋᴏ | ᴘᴜ |
+| | ᴋɪᴛᴀ | ᴘᴜ |
 |:-|:-|:-|
 | *Don't touch that button!* | **o pilin ala e nena ni!** | **o luka ala e nena ni!** |
 
 ## pona
 
-ᴡᴇᴋᴏ almost never uses **pona** to mean *simple*, once again missing the point of Toki Pona.
+ᴋɪᴛᴀ almost never uses **pona** to mean *simple*, once again missing the point of Toki Pona.
 
-| | ᴡᴇᴋᴏ | ᴘᴜ |
+| | ᴋɪᴛᴀ | ᴘᴜ |
 |:-|:-|:-|
 | *This job is simple.* | **pali ni li wile e pali lili.** | **pali ni li pona.** |
 
 ## pu
 
-ᴡᴇᴋᴏ uses **pu** as a noun, meaning *the official Toki Pona book*.
+ᴋɪᴛᴀ uses **pu** as a noun, meaning *the official Toki Pona book*.
 
-| | ᴡᴇᴋᴏ | ᴛᴇᴘᴀɴ |
+| | ᴋɪᴛᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
 | *They wrote the word "tonsi" in their copy of Toki Pona: The Language of Good by Sonja Lang.* | **ona li sitelen e nimi "tonsi" lon pu ona.** | **ona li sitelen e nimi "tonsi" lon lipu pu ona.**<br>**ona li pu li sitelen e nimi "tonsi".** (maybe not) |
 
 ## weka
 
-ᴡᴇᴋᴏ uses **weka** to mean *leave*.
+ᴋɪᴛᴀ uses **weka** to mean *leave*.
 
-| | ᴡᴇᴋᴏ | ᴘᴜ |
+| | ᴋɪᴛᴀ | ᴘᴜ |
 |:-|:-|:-|
 | *She left her house.* | **ona li weka tan tomo ona.** | **ona li tawa weka tan tomo ona.** |
 
 ## wile
 
-ᴡᴇᴋᴏ uses **wile** almost exclusively as *want*, avoiding the deliberate conflation of *want*/*need* and missing the point of Toki Pona.
+ᴋɪᴛᴀ uses **wile** almost exclusively as *want*, avoiding the deliberate conflation of *want*/*need* and missing the point of Toki Pona.
 
-| | ᴡᴇᴋᴏ | ᴘᴜ |
+| | ᴋɪᴛᴀ | ᴘᴜ |
 |:-|:-|:-|
 | *I must move.* | **mi tawa ala la, ike li kama.** /<br>**mi o tawa.** /<br>**mi ken ala tawa ala.** | **mi wile tawa.** |
 
 ## Numbers
 
-ᴡᴇᴋᴏ uses number words as nouns, omitting the **ijo** before them.
+ᴋɪᴛᴀ uses number words as nouns, omitting the **ijo** before them.
 
-| | ᴡᴇᴋᴏ | ᴘᴜ |
+| | ᴋɪᴛᴀ | ᴘᴜ |
 |:-|:-|:-|
 | *pair* | **tu** | **ijo tu** |
 | *hoard* | **mute** | **ijo mute** |
@@ -168,24 +168,24 @@ i marked things to be checked with `(?)`
 
 ## Prepositions
 
-ᴡᴇᴋᴏ uses ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs in the subject.
+ᴋɪᴛᴀ uses ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs in the subject.
 
-| | ᴡᴇᴋᴏ | ᴘᴜ |
+| | ᴋɪᴛᴀ | ᴘᴜ |
 |:-|:-|:-|
 | *The bread on the table looks rotten.* | **pan lon supa moku li jaki tawa lukin.** | **pan pi supa moku li jaki tawa lukin.** |
 
-When ᴡᴇᴋᴏ turns **lon** or **tan** into a ɴᴏᴜɴ, the ɴᴏᴜɴ can have the meaning of the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ's argument. This is similar to [***ᴋɪᴘᴏ***](kipo.md#Prepositions), but limited to *lon* and *tan*.
+When ᴋɪᴛᴀ turns **lon** or **tan** into a ɴᴏᴜɴ, the ɴᴏᴜɴ can have the meaning of the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ's argument. This is similar to [***ᴋɪᴘᴏ***](kipo.md#Prepositions), but limited to *lon* and *tan*.
 
-| | ᴡᴇᴋᴏ/ᴋɪᴘᴏ | ᴛᴇᴘᴀɴ |
+| | ᴋɪᴛᴀ/ᴋɪᴘᴏ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
 | *location*, *address* | **lon** | **ijo** (context) |
 | *origin*, *source*, *cause*, *reason*, *motive* | **tan** | **mama** |
 
 ## Synonyms
 
-ᴡᴇᴋᴏ distinguishes **kin** from **a**, **kipisi** from **tu**, and **namako** from **sin**, but doesn't use **oko**.
+ᴋɪᴛᴀ distinguishes **kin** from **a**, **kipisi** from **tu**, and **namako** from **sin**, but doesn't use **oko**.
 
-ᴡᴇᴋᴏ uses the following deprecated words:
+ᴋɪᴛᴀ uses the following deprecated words:
 
 | Word | Definition | Alternatives |
 |:-|:-|:-|
@@ -196,7 +196,7 @@ When ᴡᴇᴋᴏ turns **lon** or **tan** into a ɴᴏᴜɴ, the ɴᴏᴜɴ can
 | **pake** | *false, to trick* | **lon ala** |
 | **powe** | *stop, cease* | **pini** |
 
-ᴡᴇᴋᴏ uses the following new words:
+ᴋɪᴛᴀ uses the following new words:
 
 | Word | Definition | Alternatives |
 |:-|:-|:-|
@@ -213,9 +213,9 @@ When ᴡᴇᴋᴏ turns **lon** or **tan** into a ɴᴏᴜɴ, the ɴᴏᴜɴ can
 | **unu** | *purple* | **loje laso** |
 | **waleja** | *context, topic, salience, pertinent, topical, pertain to, be relevant* | (?) |
 
-ᴡᴇᴋᴏ does not usually use **tonsi** (*transgender, nonbinary*), but this is solely due to not discussing the subject matter often.
+ᴋɪᴛᴀ does not usually use **tonsi** (*transgender, nonbinary*), but this is solely due to not discussing the subject matter often.
 
-ᴡᴇᴋᴏ also uses a few humorous words: 
+ᴋɪᴛᴀ also uses a few humorous words: 
 
 | Word | Definition |
 |:-|:-|
@@ -229,15 +229,15 @@ When ᴡᴇᴋᴏ turns **lon** or **tan** into a ɴᴏᴜɴ, the ɴᴏᴜɴ can
 
 ## Oddities
 
-ᴡᴇᴋᴏ has on one occasion used the **X ala X** construction with **o**.
+ᴋɪᴛᴀ has on one occasion used the **X ala X** construction with **o**.
 
-| | ᴡᴇᴋᴏ | ᴘᴜ |
+| | ᴋɪᴛᴀ | ᴘᴜ |
 |:-|:-|:-|
 | *Should he do it?* | *ona o ala o pali e ni?* | *ona o pali e ni anu seme?* |
 
-ᴡᴇᴋᴏ advocates for putting the comma before **la** in if/then statements to emphasize the preceding sentence, but doesn't do so in practice.
+ᴋɪᴛᴀ advocates for putting the comma before **la** in if/then statements to emphasize the preceding sentence, but doesn't do so in practice.
 
-| | ᴡᴇᴋᴏ | ᴘᴜ |
+| | ᴋɪᴛᴀ | ᴘᴜ |
 |:-|:-|:-|
 | *If they arrive, I'll open the door.* | *ona li kama la, mi open e lupa.* | *ona li kama, la mi open e lupa.* |
 | *They arrived, so I opened the door.* | *ona li kama, la mi open e lupa.* | *ona li kama. ni la, mi open e lupa.* |
