@@ -93,6 +93,12 @@ i marked things to be checked with `(?)`
 
 ## li
 
+ᴋɪᴛᴀ uses **li** to add a predicate, even when the subject is **mi** or **sina**. ᴋɪᴛᴀ often puts a comma before additional **li**.
+
+| | ᴋɪᴛᴀ | ᴘᴜ |
+|:-|:-|:-|
+| *I came and went.* | **mi kama, li tawa.** | **mi kama. mi tawa.** |
+
 ᴋɪᴛᴀ sometimes omits the subject when it's clear what it should be, especially when it's also the subject of the previous sentence.
 
 | | ᴋɪᴛᴀ | ᴘᴜ |
