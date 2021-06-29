@@ -183,13 +183,16 @@ When ᴋɪᴛᴀ turns **lon** or **tan** into a ɴᴏᴜɴ, the ɴᴏᴜɴ can 
 
 ## Synonyms
 
-ᴋɪᴛᴀ distinguishes **kin** from **a**, **kipisi** from **tu**, and **namako** from **sin**, but doesn't use **oko**.
+(~~strikethrough~~ indicates common meanings that aren't used by ᴋɪᴛᴀ, **bold** indicates rare meanings that are)
+
+ᴋɪᴛᴀ distinguishes **kin** from **a** and **namako** from **sin**, but doesn't use **oko**.
 
 ᴋɪᴛᴀ uses the following deprecated words:
 
 | Word | Definition | Alternatives |
 |:-|:-|:-|
-| **kan** | *with, among* (ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ) | **lon poka** |
+| **kan** | ***with, among (ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ)*** | **lon poka** |
+| **kipisi** | *cut, split, divide* | **tu** |
 | **leko** | *square, cube, stairs* | **sike ala**, **sijelo pi poka tu tu** |
 | **majuna** | *old* | **sin ala**, **pi tenpo pini weka** |
 | **monsuta** | *monster, to cause fear* | **pilin ike tan ike ken** |
@@ -202,13 +205,13 @@ When ᴋɪᴛᴀ turns **lon** or **tan** into a ɴᴏᴜɴ, the ɴᴏᴜɴ can 
 |:-|:-|:-|
 | **ete** | *beyond, exceeding, ~~outside of,~~ more than* (ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ) | **ijo li pona mute tawa ijo ante.** / **ijo li pona. ijo ante li pona mute.** |
 | **kiki** | *spiky, sharp, ~~angle, triangular~~* | **ken kipisi** |
-| **jasima** | *reflect, resound, mirror, be on the opposite/polar end of* | **pana sin** (?) |
+| **jasima** | *reflect, resound, mirror, be on the opposite/polar end of, **in reply*** | **pana sin** (?) |
 | **meso** | *average* | **li pona ala li ike ala**, **pi [pona/suli/etc] insa** |
 | **misa** | *rat, mouse, squirrel, rabbit, rodent* | **soweli lili** |
 | **n** | *(thinking noise)* (ᴏɴᴏᴍᴀᴛᴏᴘᴏᴇɪᴀ) | |
 | **soko** | *fungus* | **kasi nasa** (?) |
 | **soto/teje** | *left/right* | **poka open/pini (pi sitelen Lasina anu sitelen pona)**, **poka pilin / pi pilin ala** |
-| **su** | *(forget what I just said)* | (?) |
+| **su** | ***(forget what I just said)*** | (?) |
 | **taki** | *sticky, magnet* | (?) |
 | **unu** | *purple* | **loje laso** |
 | **waleja** | *context, topic, salience, pertinent, topical, pertain to, be relevant* | (?) |
@@ -223,9 +226,9 @@ When ᴋɪᴛᴀ turns **lon** or **tan** into a ɴᴏᴜɴ, the ɴᴏᴜɴ can 
 | **kijetesantakalu** | *member of the Musteloidea superfamily* |
 | **nja** | *(a variant of **mu** for cats and other felines)* |
 | **pa** | *bruh* (ᴏɴᴏᴍᴀᴛᴏᴘᴏᴇɪᴀ) |
-| **poni** | *pony from My Little Pony: Friendship is Magic* |
+| **poni** | ***pony from My Little Pony: Friendship is Magic*** |
 | **sikomo** | *on a higher tier/plane, enlighten(ed), epic; to an exceedingly great extent* (from *sicko mode*) |
-| **weko** | *Tetris* (from **weka leko**) |
+| **weko** | ***Tetris*** (from **weka leko**) |
 
 ## Oddities
 
