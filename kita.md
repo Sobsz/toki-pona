@@ -197,7 +197,7 @@ When ᴋɪᴛᴀ turns **lon** or **tan** into a ɴᴏᴜɴ, the ɴᴏᴜɴ can 
 
 | Word | Definition | Alternatives |
 |:-|:-|:-|
-| **kan** | ***with, among (ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ)*** | **lon poka** |
+| **kan** | *with, among* (ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ) | **lon poka** |
 | **kipisi** | *cut, split, divide* | **tu** |
 | **leko** | *square, cube, stairs* | **sike ala**, **sijelo pi poka tu tu** |
 | **majuna** | *old* | **sin ala**, **pi tenpo pini weka** |
@@ -210,8 +210,9 @@ When ᴋɪᴛᴀ turns **lon** or **tan** into a ɴᴏᴜɴ, the ɴᴏᴜɴ can 
 | Word | Definition | Alternatives |
 |:-|:-|:-|
 | **ete** | *beyond, exceeding, ~~outside of,~~ more than* (ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ) | **ijo li pona mute tawa ijo ante.** / **ijo li pona. ijo ante li pona mute.** |
-| **kiki** | *spiky, sharp, ~~angle, triangular~~* | **ken kipisi** |
 | **jasima** | *reflect, resound, mirror, be on the opposite/polar end of, **in reply*** | **pana sin** (?) |
+| **kiki** | *spiky, sharp, ~~angle, triangular~~* | **ken kipisi** |
+| **linluwi** | *Internet* | **kulupu pi ilo sona** |
 | **meso** | *average* | **li pona ala li ike ala**, **pi [pona/suli/etc] insa** |
 | **misa** | *rat, mouse, squirrel, rabbit, rodent* | **soweli lili** |
 | **n** | *(thinking noise)* (ᴏɴᴏᴍᴀᴛᴏᴘᴏᴇɪᴀ) | |
