@@ -187,7 +187,7 @@ When ᴋɪᴛᴀ turns **lon** or **tan** into a ɴᴏᴜɴ, the ɴᴏᴜɴ can 
 | *location*, *address* | **lon** | **ijo** (context) |
 | *origin*, *source*, *cause*, *reason*, *motive* | **tan** | **mama** |
 
-## Synonyms
+## Extra words
 
 (~~strikethrough~~ indicates common meanings that aren't used by ᴋɪᴛᴀ, **bold** indicates rare meanings that are)
 
