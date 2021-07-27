@@ -75,9 +75,18 @@ i marked things to be checked with `(?)`
 | | ᴋɪᴛᴀ | ᴘᴜ |
 |:-|:-|:-|
 | *If you are dead, you can't speak.* | **sina moli la, sina ken ala toki.** | **sina moli, la sina ken ala toki.** |
-| *If it still hurts tomorrow, I'll talk to a doctor.* | **tenpo suno kama la ona li awen pana e pilin ike la, mi toki tawa jan pi pona sijelo.** | **ona li awen pana e pilin ike lon tenpo suno kama, la mi toki tawa jan pi pona sijelo.** | 
+| *If it still hurts tomorrow, I'll talk to a doctor.* | **tenpo suno kama la ona li awen pana e pilin ike la, mi toki tawa jan pi pona sijelo.** | **ona li awen pana e pilin ike lon tenpo suno kama, la mi toki tawa jan pi pona sijelo.** |
 
-ᴋɪᴛᴀ sometimes omits ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs in ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs.
+ᴋɪᴛᴀ sometimes puts the comma before **la** to indicate that the ᴄᴏɴᴛᴇxᴛ ᴘʜʀᴀꜱᴇ is true, not just hypothetical.
+
+| | ᴋɪᴛᴀ | ᴘᴜ |
+|:-|:-|:-|
+| *If they arrive, I'll open the door.* | *ona li kama la, mi open e lupa.* | *ona li kama, la mi open e lupa.* |
+| *They arrived, so I opened the door.* | *ona li kama, la mi open e lupa.* | *ona li kama. ni la, mi open e lupa.* |
+| *If summer is long, the river will dry out.* | *tenpo seli li suli la, telo pi linja telo li kama weka.* | *tenpo seli li suli, la telo pi linja telo li kama weka.* |
+| *The summer was long, causing the river to dry out.* | *tenpo seli li suli, la telo pi linja telo li kama weka.* | *tenpo seli li suli li pali e ni: telo pi linja telo li kama weka.* |
+
+ᴋɪᴛᴀ sometimes omits ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs in ᴄᴏɴᴛᴇxᴛ ᴘʜʀᴀꜱᴇs.
 
 | | ᴋɪᴛᴀ | ᴘᴜ |
 |:-|:-|:-|
@@ -244,12 +253,3 @@ When ᴋɪᴛᴀ turns **lon** or **tan** into a ɴᴏᴜɴ, the ɴᴏᴜɴ can 
 | | ᴋɪᴛᴀ | ᴘᴜ |
 |:-|:-|:-|
 | *Should he do it?* | *ona o ala o pali e ni?* | *ona o pali e ni anu seme?* |
-
-ᴋɪᴛᴀ advocates for putting the comma before **la** in if/then statements to emphasize the preceding sentence, but doesn't do so in practice.
-
-| | ᴋɪᴛᴀ | ᴘᴜ |
-|:-|:-|:-|
-| *If they arrive, I'll open the door.* | *ona li kama la, mi open e lupa.* | *ona li kama, la mi open e lupa.* |
-| *They arrived, so I opened the door.* | *ona li kama, la mi open e lupa.* | *ona li kama. ni la, mi open e lupa.* |
-| *If summer is long, the river will dry out.* | *tenpo seli li suli la, telo pi linja telo li kama weka.* | *tenpo seli li suli, la telo pi linja telo li kama weka.* |
-| *The summer was long, causing the river to dry out.* | *tenpo seli li suli, la telo pi linja telo li kama weka.* | *tenpo seli li suli, li pali e ni: telo pi linja telo li kama weka.* |
