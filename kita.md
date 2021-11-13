@@ -145,7 +145,7 @@ i marked things to be checked with `(?)`
 
 | | ᴋɪᴛᴀ | ᴘᴜ |
 |:-|:-|:-|
-| *This job is simple.* | **pali ni li wile e pali lili.** | **pali ni li pona.** |
+| *This tool is simple.* | **ilo ni la wan pi mute lili li lon.** | **ilo ni li pona.** |
 
 ## pu
 
