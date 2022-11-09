@@ -1,5 +1,7 @@
 # Not Very Good Toki Pona (ᴋɪᴛᴀ)
 
+**hey just for the record i don't actually do half of these things anymore so yeah**
+
 something something ma pona  
 i marked things to be checked with `(?)`
 
