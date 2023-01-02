@@ -1,6 +1,6 @@
 # Not Very Good Toki Pona (ᴋɪᴛᴀ)
 
-**hey just for the record i don't actually do half of these things anymore so yeah**
+# hey just for the record i don't actually do half of these things anymore so yeah; see [here](https://hecko.my.to/style-guide#toki-pona) for up-to-date info
 
 something something ma pona  
 i marked things to be checked with `(?)`
@@ -213,8 +213,8 @@ When ᴋɪᴛᴀ turns **lon** or **tan** into a ɴᴏᴜɴ, the ɴᴏᴜɴ can 
 | **leko** | *square, cube, stairs* | **sike ala**, **sijelo pi poka tu tu** |
 | **majuna** | *old* | **sin ala**, **pi tenpo pini weka** |
 | **monsuta** | *monster, to cause fear* | **pilin ike tan ike ken** |
-| **pake** | *false, to trick* | **lon ala** |
-| **powe** | *stop, cease* | **pini** |
+| **pake** | *stop, cease* | **pini** |
+| **powe** | *false, to trick* | **lon ala** |
 
 ᴋɪᴛᴀ uses the following new words:
 
